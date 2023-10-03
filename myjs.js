@@ -1,1 +1,1 @@
-alert('Hello, Osamu!');　<!--JSは'' ""　のどちらでも良い-->
+alert('Hello, Osamu!');　  /* JSは'' ""　のどちらでも良い */
