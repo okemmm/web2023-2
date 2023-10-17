@@ -12,9 +12,11 @@ function coming1(){
 
 
 function taro65(){
-  who65 = '太郎'; who1 = '太郎';
+  who65 = '太郎'; 
+  who1 = '太郎';
 }
 
 function hanako65(){
-  who65 ='花子'; who1 ='花子';
+  who65 ='花子'; 
+  who1 ='花子';
 }
