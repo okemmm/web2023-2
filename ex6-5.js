@@ -10,8 +10,15 @@ function hanako65(){
 }
 
 function taro66(){
+  alert(taro65 + 'が来た');
+}
+function hanako66(){
+  alert(hanako65 + 'が来た');
+}
+/*function taro66(){
   alert('太郎' + 'が来た');
 }
 function hanako66(){
   alert('花子' + 'が来た');
 }
+*/
