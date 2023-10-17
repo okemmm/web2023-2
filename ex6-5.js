@@ -11,7 +11,7 @@ function hanako65(){
 }
 
 function taro66(){
-  alert('太郎が来た');
+  alert('太郎' + 'が来た');
 }
 function hanako66(){
   alert('花子' + 'が来た');
