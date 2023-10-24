@@ -3,11 +3,11 @@ function sayhello68(){
 }
 
 function taro68(){
-  document.getElementById('taro68').innerHTML = '太郎';
+  document.getElementById('who68').innerHTML = '太郎';
 }
 
 function hanako68(){
-  document.getElementById('hanako68').innerHTML = '花子';
+  document.getElementById('who68').innerHTML = '花子';
 }
 
 function gazo688(){
