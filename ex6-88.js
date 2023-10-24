@@ -1,3 +1,3 @@
 function gazo688(){
-  document.getElementByld('who688').innerHTML = '<img src="./image/bulbon.gif" alt="オン">';
+  document.getElementByld('who688').innerHTML = '<img src="./image/sky.jpeg" alt="オン">';
 }
