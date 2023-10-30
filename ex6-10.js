@@ -3,6 +3,6 @@ function imgchange1() {
 }
 
 function imgchange2() {
-  document.getElementById('logoImage').src = './image/josai5.png'; // 元の画像のパスに変更
+  document.getElementById('logoImage').src = './image/josai5.png'; // 元の画像に戻す
 }
 
