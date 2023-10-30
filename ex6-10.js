@@ -1,3 +1,3 @@
 function imgchange1() {
-    document.getElementById('logo').src = './image/josai4.png';
+  document.getElementById('logoImage').src = './image/josai4.png'; // idを修正
 }
