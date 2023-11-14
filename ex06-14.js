@@ -3,7 +3,7 @@
 //setTimeout("photograph3()",3000);}
 
 
-var originalImageSrc = './image/Morning.png'; // 元の画像のURL
+var originalImage = './image/Morning.png'; // 元の画像のURL
 
 function photograph3() {
   var imgElement = document.getElementById("img3");
@@ -12,7 +12,7 @@ function photograph3() {
 
   // 3秒後に元の画像に戻す
   setTimeout(function() {
-    imgElement.src = originalImageSrc;
+    imgElement.src = originalImage;
     imgElement.alt = "photochange";
   }, 3000);
 }
