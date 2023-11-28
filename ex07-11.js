@@ -8,5 +8,5 @@ function determineLeapYear() {
         result2 = '平年';
     }
 
-    document.getElementById('result2').innerText = '西暦' + year + '年は' + result + 'です。';
+    document.getElementById('result2').innerText = '西暦' + year + '年は' + result2 + 'です。';
 }
