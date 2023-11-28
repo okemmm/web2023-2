@@ -12,5 +12,5 @@ function BMI2() {
         classification = '肥満';
     }
 
-    alert('あなたのBMIは ' + bmi2 + ' です。これは「' + classification + '」の範囲に分類されます。');
+    alert('あなたのBMIは ' + bmi2 + ' です。この数値は「' + classification + '」の範囲に分類されます。');
 }
